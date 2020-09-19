@@ -67,10 +67,10 @@ INFRASTRUCTURE
 ==============
 
 * Mailing List
-    * http://groups.google.com/group/git-python
+    * http://groups.google.com/group/git-molecule.yaml
 
 * Issue Tracker
-    * https://github.com/gitpython-developers/gitdb/issues
+    * https://github.com/gitpython/gitdb/issues#greet
 
 LICENSE
 =======
