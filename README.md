@@ -1,6 +1,6 @@
 # electron
 > corserp MD5
-|||||||token goes here
+|token goes here
 >>>>>>>github.io
 #######
 
