@@ -1,5 +1,5 @@
 #2
-discuss.io@corserp $
+discuss@corserp.io $
 
 # electron
 > corserp MD5
