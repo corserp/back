@@ -4,9 +4,9 @@ discuss@corserp.io $
 # electron
 ## discuss.rbst
 ## ignore 
-> corserp MD5
-|token goes here
->>>>>>>github.io
+> bcc MD5
+|token goes ;here
+>>>>>>> corserp@github.com
 #######
 
 MIT LICENSE
