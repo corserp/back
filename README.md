@@ -5,7 +5,7 @@ atom@corserp.io $
 ## discuss.rbst
 ## ignore 
 > bcc MD5
-|...etc !goes ;here ##back #
+|...lib !goes ;here ##back #
 >>>>>>> naturebigetloop@gmail.com
 #######
 
