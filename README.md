@@ -5,8 +5,8 @@ atom@corserp.io $
 ## discuss.rbst
 ## ignore 
 > bcc MD5
-|token goes ;here
->>>>>>> corserp@github.com
+|...etc !goes ;here ##back #
+>>>>>>> naturebigetloop@gmail.com
 #######
 
 MIT LICENSE
