@@ -1,5 +1,5 @@
 #2
-discuss@corserp.io $
+atom@corserp.io $
 
 # electron
 ## discuss.rbst
