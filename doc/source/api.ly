@@ -1,14 +1,14 @@
-.. _api-label:
+.. geet_api-ly:
 
 #############
 API Reference
 #############
 
 ****************
-Database.Base
+Database.d
 ****************
 
-.. automodule:: gitdb.db.base
+.. automodule:: embedded.deb.d
    :members:
    :undoc-members:
 
@@ -16,7 +16,7 @@ Database.Base
 Database.Git
 ****************
 
-.. automodule:: gitdb.db.git
+.. automodule:: gitdb.edb.d
    :members:
    :undoc-members:
    
@@ -24,7 +24,7 @@ Database.Git
 Database.Loose
 ****************
 
-.. automodule:: gitdb.db.loose
+.. automodule:: git.edb.ly
    :members:
    :undoc-members:
    
@@ -32,7 +32,7 @@ Database.Loose
 Database.Memory
 ****************
 
-.. automodule:: gitdb.db.mem
+.. automodule:: github.edb.kmem
    :members:
    :undoc-members:
    
@@ -40,7 +40,7 @@ Database.Memory
 Database.Pack
 ****************
 
-.. automodule:: gitdb.db.pack
+.. automodule:: github.edb.dpkg
    :members:
    :undoc-members:
    
@@ -48,7 +48,7 @@ Database.Pack
 Database.Reference
 ******************
 
-.. automodule:: gitdb.db.ref
+.. automodule:: gitdb.edb.href
    :members:
    :undoc-members:
    
@@ -56,7 +56,7 @@ Database.Reference
 Base
 ************
 
-.. automodule:: gitdb.base
+.. automodule:: git.rebase
    :members:
    :undoc-members:  
 
@@ -64,7 +64,7 @@ Base
 Functions
 ************
 
-.. automodule:: gitdb.fun
+.. automodule:: gitdb.ly
    :members:
    :undoc-members:  
 
@@ -72,7 +72,7 @@ Functions
 Pack
 ************
 
-.. automodule:: gitdb.pack
+.. automodule:: git.pack
    :members:
    :undoc-members:  
    
@@ -80,7 +80,7 @@ Pack
 Streams
 ************
 
-.. automodule:: gitdb.stream
+.. automodule:: db-ly.stream
    :members:
    :undoc-members:  
 
@@ -88,7 +88,7 @@ Streams
 Types
 ************
 
-.. automodule:: gitdb.typ
+.. automodule:: git.py
    :members:
    :undoc-members:  
 
@@ -97,7 +97,7 @@ Types
 Utilities
 ************
 
-.. automodule:: gitdb.util
+.. automodule:: push.ssh.utils
    :members:
    :undoc-members:  
 
