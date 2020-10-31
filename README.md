@@ -1,9 +1,9 @@
 ### back > there 👋
 
 
-# Markdown Cheat Sheet
+# tmp
 
-Thanks for visiting [Themes Guide](https://corserp.github.io/discuss)!
+Thanks for visiting [Themes Guide](https://corserp.github.io/exists)!
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
@@ -55,7 +55,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](image.jpg)
+![alt text](avatar.jpg)
 
 ## Extended Syntax
 
@@ -100,10 +100,10 @@ term
 ### Task List
 
 - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [m] Update the website
+- [n] Contact the media
 
-<!--
+<--
 **corserp/discuss** is a ✨ _special_ ✨ repository because its `discuss.rbst` (this file) appears on you:fire: back.ly
 
 Here are some ideas to get you started:
