@@ -51,7 +51,7 @@ These are the elements outlined in John corserp’s original design document. Al
 
 ### Link
 
-[title](https://www.example.com)
+[atom](https://corserp.github.io/atom)
 
 ### Image
 
@@ -65,8 +65,8 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | discuss |
+| Paragraph | atom |
 
 ### Fenced Code Block
 
@@ -103,7 +103,6 @@ term
 - [m] Update the website
 - [n] Contact the media
 
-<--
 **corserp/discuss** is a ✨ _special_ ✨ repository because its `discuss.rbst` (this file) appears on you:fire: back.ly
 
 Here are some ideas to get you started:
@@ -116,4 +115,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pro:heart: ...
 - ⚡ Fun fact: ...
--->
+
