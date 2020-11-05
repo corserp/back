@@ -9,7 +9,7 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 
 ## Basic Syntax
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+These are the elements outlined in John corserp’s original design document. All Markdown applications support these elements.
 
 ### Heading
 
@@ -73,7 +73,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ```
 {
   "firstName": "John",
-  "lastName": "Smith",
+  "lastName": "Doe",
   "age": 25
 }
 ```
