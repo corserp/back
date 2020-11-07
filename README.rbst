@@ -2,10 +2,9 @@
 
 
 
-
-Installation
-Requirements
-CentOS 8
+>>> Installation
+## Requirements
++CentOS 8
 Ubuntu 16.x
 Pip
 Requirements
@@ -97,8 +96,6 @@ Documentation
 Documentation
 Working with InterSphinx
 Credits
-
-
 
 
 
